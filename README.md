@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **Adelbenyoub99/Adelbenyoub99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -43,7 +41,7 @@ I am passionate about software architecture, clean code principles, and building
 ## 🎨 Technical Skills • Compétences Techniques
 
 ### 💻 Languages / Langages
-- Java, Python, C, C#, JavaScript, PHP
+- Java, Python, JavaScript, PHP
 
 ### 🌐 Web Technologies / Technologies Web
 - React, Node.js, Express.js, Laravel, REST APIs
@@ -52,22 +50,18 @@ I am passionate about software architecture, clean code principles, and building
 - MySQL, Oracle Database, MongoDB
 
 ### 🛠️ Tools & Platforms / Outils & Plateformes
-- Git, Linux, VS Code, Eclipse, Android Studio
+- Git, Linux, VS Code, Eclipse
 
 ### 📐 Methodologies / Méthodologies
-- Agile/Scrum, UML, MVC, Software Architecture
+- Agile/Scrum, UML, MVC
 
 ---
 
 ## 🚀 Projects • Projets
 
-### 🛰️ Jupiter Project Manager (JPM)
+### 🛰️ Jupiter Project Manager
 A collaborative project management platform using the SERN stack.  
 Plateforme de gestion de projets collaboratifs développée en SERN.
-
-### 🍔 Quick Meal
-Order and delivery management web application built with Laravel.  
-Application de gestion des commandes et livraisons réalisée avec Laravel.
 
 ### 🛒 Space Shop
 E-commerce website using HTML/CSS/JS/PHP.  
