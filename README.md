@@ -41,16 +41,16 @@ I am passionate about software architecture, clean code principles, and building
 ## 🎨 Technical Skills • Compétences Techniques
 
 ### 💻 Languages / Langages
-- Java, Python, JavaScript, PHP
+- Java, Python, PHP, JavaScript, TypeScript
 
 ### 🌐 Web Technologies / Technologies Web
-- React, Node.js, Express.js, Laravel, REST APIs
+- React, Vue.js, Node.js, Express.js, .Net, REST APIs
 
 ### 🗄️ Databases / Bases de Données
-- MySQL, Oracle Database, MongoDB
+- MySQL, Oracle Database, SQL Server, MongoDB
 
-### 🛠️ Tools & Platforms / Outils & Plateformes
-- Git, Linux, VS Code, Eclipse
+### 🛠️ Tools / Outils
+- Git, VS Code, Antigravity 
 
 ### 📐 Methodologies / Méthodologies
 - Agile/Scrum, UML, MVC
@@ -67,7 +67,8 @@ Plateforme de gestion de projets collaboratifs développée en SERN.
 E-commerce website using HTML/CSS/JS/PHP.  
 Site e-commerce développé avec HTML/CSS/JS/PHP.
 
----
+### Others in **My portfolio**
+👉 https://benyoubadel-portfolio.netlify.app/
 
 ## 📊 GitHub Stats
 
